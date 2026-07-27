@@ -1,0 +1,13 @@
+name: ShinyParaAnalisisDeDatos
+title: ShinyParaAnalisisDeDatos
+username: dvillegasc
+account: dvillegasc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17355962
+bundleId: 11996466
+url: https://dvillegasc.shinyapps.io/ShinyParaAnalisisDeDatos/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/Bici.pdf|www/bicicleta-electrica.png
